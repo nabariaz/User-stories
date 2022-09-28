@@ -10,7 +10,7 @@
 	
 	1.4 Business logic to consume API - API Handler
 	
-	1.4 Create model
+	1.4 Create Model
 	
 	1.5 Parse response to Model
 	
@@ -60,13 +60,24 @@
 
 4. Displying list of issues: Naba
 	
-	4.1
+	4.1 UI Design - SwiftUI/Storyboard
 	
-	4.2
+	4.2 API - service url: https://api.github.com/repositories/19438/issues, payload: -, response(POSTMAN tool to validate the API response): -
 	
-	4.3
+	4.3 Business logic to consume API - API Handler
 	
-	4.4
+	4.4 Create Model
 	
-	4.5
-
+	4.5 Parse response to Model
+	
+	4.6 Error handling - Try catch, http response code(200, 404, 204, 401)
+	
+	4.7 Business logic to bind data to table view
+	
+	4.8 Custom cell for every issue
+	
+	4.9 Detail screen for every issue with aditional information about the issue when the respective cell is selected
+	
+	4.10 Navigation handling
+	
+	4.11 Unit testing
