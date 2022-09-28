@@ -28,18 +28,45 @@
 
 2. Forgot password: Naba
   
-  2.1 UI Design - SwiftUI/Storyboard
+  	2.1 UI Design - SwiftUI/Storyboard
     
-    2.1.1 Two fields - enter new password, re-enter new password
+    		2.1.1 Two fields - enter new password, re-enter new password
   
-  2.2 Error handling - New password and re-enter new password fields match, either one of them is not empty when clicking on the save button, verify new    password is not the same as old password
+  	2.2 Error handling - New password and re-enter new password fields match, either one of them is not empty when clicking on the save button, verify new password is not the same as old password
   
-  2.3 Update password to new password in the login database
+  	2.3 Update password to new password in the login database
   
-  2.4 Update user session - storing new password in keychain
+  	2.4 Update user session - storing new password in keychain
   
-  2.5 Unit testing
+  	2.5 Unit testing
   
-3. Signup 
+3. Signup: Naba
+	
+	3.1 User information - email, username, password
+	
+	3.2 UI Design - SwiftUI/Storyboard
+	
+	3.3 Add validation for email
+	
+	3.4 Add validation for username
+	
+	3.5 Error handling - email exists, username is not taken by another user, account is being created with an email that doesn't already have an account associated with it
+	
+	3.6 Add user to the login database using credential after successful creation
+	
+	3.7 Navigate to login page
+	
+	3.8 Unit testing
 
-4. Displying list of issues
+4. Displying list of issues: Naba
+	
+	4.1
+	
+	4.2
+	
+	4.3
+	
+	4.4
+	
+	4.5
+
